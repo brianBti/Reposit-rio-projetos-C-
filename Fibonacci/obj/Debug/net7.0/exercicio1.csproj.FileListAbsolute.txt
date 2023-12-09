@@ -1,0 +1,28 @@
+E:\Desktop\coisas\coisas 2\Github\poo_entra21\aula 1\exercicio1\bin\Debug\net7.0\exercicio1.exe
+E:\Desktop\coisas\coisas 2\Github\poo_entra21\aula 1\exercicio1\bin\Debug\net7.0\exercicio1.deps.json
+E:\Desktop\coisas\coisas 2\Github\poo_entra21\aula 1\exercicio1\bin\Debug\net7.0\exercicio1.runtimeconfig.json
+E:\Desktop\coisas\coisas 2\Github\poo_entra21\aula 1\exercicio1\bin\Debug\net7.0\exercicio1.dll
+E:\Desktop\coisas\coisas 2\Github\poo_entra21\aula 1\exercicio1\bin\Debug\net7.0\exercicio1.pdb
+E:\Desktop\coisas\coisas 2\Github\poo_entra21\aula 1\exercicio1\obj\Debug\net7.0\exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\coisas\coisas 2\Github\poo_entra21\aula 1\exercicio1\obj\Debug\net7.0\exercicio1.AssemblyInfoInputs.cache
+E:\Desktop\coisas\coisas 2\Github\poo_entra21\aula 1\exercicio1\obj\Debug\net7.0\exercicio1.AssemblyInfo.cs
+E:\Desktop\coisas\coisas 2\Github\poo_entra21\aula 1\exercicio1\obj\Debug\net7.0\exercicio1.csproj.CoreCompileInputs.cache
+E:\Desktop\coisas\coisas 2\Github\poo_entra21\aula 1\exercicio1\obj\Debug\net7.0\exercicio1.dll
+E:\Desktop\coisas\coisas 2\Github\poo_entra21\aula 1\exercicio1\obj\Debug\net7.0\refint\exercicio1.dll
+E:\Desktop\coisas\coisas 2\Github\poo_entra21\aula 1\exercicio1\obj\Debug\net7.0\exercicio1.pdb
+E:\Desktop\coisas\coisas 2\Github\poo_entra21\aula 1\exercicio1\obj\Debug\net7.0\exercicio1.genruntimeconfig.cache
+E:\Desktop\coisas\coisas 2\Github\poo_entra21\aula 1\exercicio1\obj\Debug\net7.0\ref\exercicio1.dll
+C:\Users\brian\OneDrive\Área de Trabalho\aula 1\exercicio1\bin\Debug\net7.0\exercicio1.exe
+C:\Users\brian\OneDrive\Área de Trabalho\aula 1\exercicio1\bin\Debug\net7.0\exercicio1.deps.json
+C:\Users\brian\OneDrive\Área de Trabalho\aula 1\exercicio1\bin\Debug\net7.0\exercicio1.runtimeconfig.json
+C:\Users\brian\OneDrive\Área de Trabalho\aula 1\exercicio1\bin\Debug\net7.0\exercicio1.dll
+C:\Users\brian\OneDrive\Área de Trabalho\aula 1\exercicio1\bin\Debug\net7.0\exercicio1.pdb
+C:\Users\brian\OneDrive\Área de Trabalho\aula 1\exercicio1\obj\Debug\net7.0\exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\OneDrive\Área de Trabalho\aula 1\exercicio1\obj\Debug\net7.0\exercicio1.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Área de Trabalho\aula 1\exercicio1\obj\Debug\net7.0\exercicio1.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Área de Trabalho\aula 1\exercicio1\obj\Debug\net7.0\exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Área de Trabalho\aula 1\exercicio1\obj\Debug\net7.0\exercicio1.dll
+C:\Users\brian\OneDrive\Área de Trabalho\aula 1\exercicio1\obj\Debug\net7.0\refint\exercicio1.dll
+C:\Users\brian\OneDrive\Área de Trabalho\aula 1\exercicio1\obj\Debug\net7.0\exercicio1.pdb
+C:\Users\brian\OneDrive\Área de Trabalho\aula 1\exercicio1\obj\Debug\net7.0\exercicio1.genruntimeconfig.cache
+C:\Users\brian\OneDrive\Área de Trabalho\aula 1\exercicio1\obj\Debug\net7.0\ref\exercicio1.dll
